@@ -1,0 +1,10 @@
+C:\00_work\99_repos\csharp\touchkeysample\TouchKeySample\bin\Debug\TouchKeySample.exe.config
+C:\00_work\99_repos\csharp\touchkeysample\TouchKeySample\bin\Debug\TouchKeySample.exe
+C:\00_work\99_repos\csharp\touchkeysample\TouchKeySample\bin\Debug\TouchKeySample.pdb
+C:\00_work\99_repos\csharp\touchkeysample\TouchKeySample\obj\Debug\TouchKeySample.csprojAssemblyReference.cache
+C:\00_work\99_repos\csharp\touchkeysample\TouchKeySample\obj\Debug\TouchKeySample.Form1.resources
+C:\00_work\99_repos\csharp\touchkeysample\TouchKeySample\obj\Debug\TouchKeySample.Properties.Resources.resources
+C:\00_work\99_repos\csharp\touchkeysample\TouchKeySample\obj\Debug\TouchKeySample.csproj.GenerateResource.cache
+C:\00_work\99_repos\csharp\touchkeysample\TouchKeySample\obj\Debug\TouchKeySample.csproj.CoreCompileInputs.cache
+C:\00_work\99_repos\csharp\touchkeysample\TouchKeySample\obj\Debug\TouchKeySample.exe
+C:\00_work\99_repos\csharp\touchkeysample\TouchKeySample\obj\Debug\TouchKeySample.pdb
